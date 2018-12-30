@@ -21,13 +21,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
+https://i.imgur.com/I7N3LLq.gif
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
